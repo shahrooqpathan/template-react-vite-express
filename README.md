@@ -2,8 +2,8 @@
 
 ## FrontEnd
 
-Readme for the React frontend - [Link](./vite-project/README.md)
+Readme for the React frontend - [Link](./vite-project)
 
 ## Backend
 
-Readme for the Express backend - [Link](./backend/README.md)
+Readme for the Express backend - [Link](./backend)
